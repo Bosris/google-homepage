@@ -1,0 +1,30 @@
+header ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    display: inline;
+    overflow: hidden;
+}
+
+body{
+    min-height:100%;
+    padding:0;
+    margin:0;
+    position:relative;
+}
+
+header{
+    position: fixed;
+}
+
+header li{
+    display: inline;
+}
+
+#google_logo{
+    margin-top: 15%;
+    text-align: center;
+    position: relative;
+    left: 50%;
+}
+
